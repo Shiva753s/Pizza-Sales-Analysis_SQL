@@ -9,7 +9,7 @@ This project analyzes pizza sales data to uncover trends in orders, revenue, and
 - Determine peak order times and daily sales patterns.
 - Analyze revenue contribution by pizza types.
 
-### Tools & Technologies Used
+### Database and Tools Used
 - **MySQL** – For database management and querying.
 - **Excel** – Used for data cleaning and preprocessing.
   
