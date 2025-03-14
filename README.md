@@ -1,7 +1,7 @@
 # 📊 Pizza Store Data Analysis# Pizza-Sales-Analysis
 
 ## 📜 Project Overview
-This project focuses on analyzing pizza sales data to extract valuable business insights. The dataset includes information on orders, pizza details, and sales trends, which are analyzed using SQL.
+This project analyzes pizza sales data to uncover trends in orders, revenue, and customer preferences. Using SQL queries, it extracts insights that help understand sales performance and business patterns.
 
 ### Key Objectives:
 - Understand sales performance and revenue trends.
@@ -22,6 +22,10 @@ This project focuses on analyzing pizza sales data to extract valuable business 
 | **pizza_types** | Defines pizza categories and ingredients. |
 
 ### Schema Diagram:
-![Image](https://github.com/user-attachments/assets/8108dae8-a9fc-492d-9cec-c9022a04b9f5)
+![Image](https://github.com/user-attachments/assets/0952f39c-c8cf-47cd-8e81-88feed5f585a)
+
+### Conclusion
+This project provides actionable insights into pizza sales, helping optimize inventory, pricing, and marketing strategies. The analysis enables data-driven decision-making for improved business performance.
+
 
 
