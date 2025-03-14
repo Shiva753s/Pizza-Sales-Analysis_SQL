@@ -1,4 +1,4 @@
-# 📊 Pizza Store Data Analysis# Pizza-Sales-Analysis
+# 📊 Pizza Sales Data Analysis
 
 ## 📜 Project Overview
 This project analyzes pizza sales data to uncover trends in orders, revenue, and customer preferences. Using SQL queries, it extracts insights that help understand sales performance and business patterns.
