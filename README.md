@@ -21,4 +21,7 @@ This project focuses on analyzing pizza sales data to extract valuable business 
 | **pizzas** | Lists pizza sizes, prices, and types. |
 | **pizza_types** | Defines pizza categories and ingredients. |
 
+### Schema Diagram:
+![Image](https://github.com/user-attachments/assets/8108dae8-a9fc-492d-9cec-c9022a04b9f5)
+
 
