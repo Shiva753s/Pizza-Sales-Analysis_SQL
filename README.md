@@ -24,6 +24,9 @@ This project analyzes pizza sales data to uncover trends in orders, revenue, and
 ### Schema Diagram:
 ![Image](https://github.com/user-attachments/assets/0952f39c-c8cf-47cd-8e81-88feed5f585a)
 
+### 📜 SQL Queries  
+All SQL queries used for analysis are stored in [`queries.sql`](queries.sql). Click the link to view the full query file.  
+
 ### Conclusion
 This project provides actionable insights into pizza sales, helping optimize inventory, pricing, and marketing strategies. The analysis enables data-driven decision-making for improved business performance.
 
