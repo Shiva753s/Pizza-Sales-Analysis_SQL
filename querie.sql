@@ -1,4 +1,4 @@
-# -- total no. of orders placed
+-- total no. of orders placed
 
 select count(order_id)
 from orders;
